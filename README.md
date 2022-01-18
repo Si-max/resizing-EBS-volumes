@@ -1,1 +1,1 @@
-# resizing-EBS-volumes
+Run bash resize.sh
